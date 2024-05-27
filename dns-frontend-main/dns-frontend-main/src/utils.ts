@@ -1,0 +1,1 @@
+export const API = "https://dns-backend-btog.onrender.com"
